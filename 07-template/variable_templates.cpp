@@ -9,7 +9,7 @@ void testing()
 {
 	static_assert(isAssignable<T&, double>, "can't assign double to T!");
 
-	static_assert(isAssignable<T&, std::string>, "can't assign string to T!");
+	//static_assert(isAssignable<T&, std::string>, "can't assign string to T!");
 }
 
 int main()

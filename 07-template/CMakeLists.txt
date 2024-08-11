@@ -10,4 +10,8 @@ add_executable(templateargumentoperations templateargumentoperations.cpp)
 
 add_executable(variable_templates variable_templates.cpp)
 
-add_executable(finally finally.cpp)
+add_executable(lambda_finally lambda_finally.cpp)
+
+add_executable(template_aliases template_aliases.cpp)
+
+add_executable(compile_time_if  compile_time_if.cpp)
