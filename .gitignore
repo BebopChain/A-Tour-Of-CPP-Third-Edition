@@ -40,3 +40,5 @@ out/**
 .vs/**
 .vscode/
 .vscode/**
+.cache/
+.cache/**

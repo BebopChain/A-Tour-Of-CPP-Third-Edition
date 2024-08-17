@@ -4,3 +4,4 @@ project(09-library-overview LANGUAGES CXX)
 
 add_executable(suffixes suffixes.cpp)
 add_executable(ranges ranges.cpp)
+add_executable(avctest avctest.cpp)
